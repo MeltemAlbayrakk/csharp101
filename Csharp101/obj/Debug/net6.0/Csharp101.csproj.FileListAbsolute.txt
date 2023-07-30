@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\Csharp101\bin\Debug\net6.0\Csharp101.exe
+C:\Users\HP\source\repos\Csharp101\Csharp101\bin\Debug\net6.0\Csharp101.deps.json
+C:\Users\HP\source\repos\Csharp101\Csharp101\bin\Debug\net6.0\Csharp101.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\Csharp101\bin\Debug\net6.0\Csharp101.dll
+C:\Users\HP\source\repos\Csharp101\Csharp101\bin\Debug\net6.0\Csharp101.pdb
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.dll
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\refint\Csharp101.dll
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.pdb
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\Csharp101.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\Csharp101\obj\Debug\net6.0\ref\Csharp101.dll
