@@ -19,6 +19,9 @@ namespace Csharp101
 			y /= 1;
 			Console.WriteLine(y);
 			x *= 2;
+
+
+
 			Console.WriteLine(x);
 
 			// MANTIKSAL OPERETÖRLER
