@@ -27,13 +27,13 @@ class Result
     public static void solve(double meal_cost, int tip_percent, int tax_percent)
     {
         double total_cost =0;
-        double tip ;
-        double tax ;
-        tip = tip_percent / 100 * meal_cost;
-        Console.Write("//"+tip);
-        tax = tax_percent / 100 * meal_cost;
-        Console.Write("//" + tax);
-        total_cost = tip + tax + meal_cost;
+        double tip=0;
+        double tax=0;
+        tip = (meal_cost * tip_percent) / 100;                                       //(tip_percent / 100) * meal_cost;
+        Console.Write("//" + tip);
+        tax = (tax_percent * meal_cost) / 100;                                                     //(tax_percent / 100) * meal_cost;
+        Console.Write("//" + tax); 
+        total_cost = (tip + tax) + meal_cost;
         total_cost = Math.Round(total_cost, MidpointRounding.AwayFromZero);
         Console.Write(total_cost);
 
