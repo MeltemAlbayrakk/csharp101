@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\For döngüsü\bin\Debug\net6.0\For döngüsü.exe
+C:\Users\HP\source\repos\Csharp101\For döngüsü\bin\Debug\net6.0\For döngüsü.deps.json
+C:\Users\HP\source\repos\Csharp101\For döngüsü\bin\Debug\net6.0\For döngüsü.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\For döngüsü\bin\Debug\net6.0\For döngüsü.dll
+C:\Users\HP\source\repos\Csharp101\For döngüsü\bin\Debug\net6.0\For döngüsü.pdb
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.dll
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\refint\For döngüsü.dll
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.pdb
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\For döngüsü.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\For döngüsü\obj\Debug\net6.0\ref\For döngüsü.dll
