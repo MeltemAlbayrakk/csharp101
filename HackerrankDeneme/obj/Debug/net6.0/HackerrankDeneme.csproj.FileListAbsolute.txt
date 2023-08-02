@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\bin\Debug\net6.0\HackerrankDeneme.exe
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\bin\Debug\net6.0\HackerrankDeneme.deps.json
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\bin\Debug\net6.0\HackerrankDeneme.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\bin\Debug\net6.0\HackerrankDeneme.dll
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\bin\Debug\net6.0\HackerrankDeneme.pdb
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.dll
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\refint\HackerrankDeneme.dll
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.pdb
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\HackerrankDeneme.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\HackerrankDeneme\obj\Debug\net6.0\ref\HackerrankDeneme.dll
