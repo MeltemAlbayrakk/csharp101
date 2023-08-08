@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For döngüsü", "For döng
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While Döngüsü", "While Döngüsü\While Döngüsü.csproj", "{D81584B3-4FB8-4E2A-BD3C-3A6FF4A1B6D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{80157A70-4D0A-4DE5-AF99-AC472B9DE8BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{80157A70-4D0A-4DE5-AF99-AC472B9DE8BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerrankDeneme", "HackerrankDeneme\HackerrankDeneme.csproj", "{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerrankDeneme", "HackerrankDeneme\HackerrankDeneme.csproj", "{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sınıfı", "Array Sınıfı\Array Sınıfı.csproj", "{4BB5C882-B94F-473C-A1C2-61390BD0CA47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Sınıfı", "Array Sınıfı\Array Sınıfı.csproj", "{4BB5C882-B94F-473C-A1C2-61390BD0CA47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CF5CE3E4-691F-4A88-AD01-A72387C19500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar 2 (overloading)", "Metotlar 2 (overloading)\Metotlar 2 (overloading).csproj", "{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5CE3E4-691F-4A88-AD01-A72387C19500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5CE3E4-691F-4A88-AD01-A72387C19500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5CE3E4-691F-4A88-AD01-A72387C19500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5CE3E4-691F-4A88-AD01-A72387C19500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

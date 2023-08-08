@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\bin\Debug\net6.0\Metotlar 2 (overloading).exe
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\bin\Debug\net6.0\Metotlar 2 (overloading).deps.json
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\bin\Debug\net6.0\Metotlar 2 (overloading).runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\bin\Debug\net6.0\Metotlar 2 (overloading).dll
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\bin\Debug\net6.0\Metotlar 2 (overloading).pdb
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).dll
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\refint\Metotlar 2 (overloading).dll
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).pdb
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\Metotlar 2 (overloading).genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\Metotlar 2 (overloading)\obj\Debug\net6.0\ref\Metotlar 2 (overloading).dll
