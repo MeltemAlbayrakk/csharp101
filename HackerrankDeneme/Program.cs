@@ -1,78 +1,38 @@
-﻿using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
-using System;
+﻿
 
-class Result
+
+
+    //erisim_belirteci geri_donuctipi metot_adi(parametrelistesi/arguman)
+    ////komutlar;
+    // return;
+    //}
+    int a = 2;
+    int b = 3;
+    Console.WriteLine(a + b);
+
+    int sonuc = Topla(a, b);
+    Console.WriteLine(sonuc);
+    Methodlar ornek = new Methodlar();
+    ornek.EkranaYazdir(Convert.ToString(sonuc));
+    int sonuc2 = ornek.ArttirveTopla(ref a, ref b);
+    ornek.EkranaYazdir(Convert.ToString(sonuc2));
+    ornek.EkranaYazdir(Convert.ToString(a + b));
+
+static int Topla(int deger1, int deger2)
 {
-
-    /*
-     * Complete the 'plusMinus' function below.
-     *
-     * The function accepts INTEGER_ARRAY arr as parameter.
-     */
-
-
-    public static void plusMinus(List<int> arr)
+    return (deger1 + deger2);
+}		
+	
+	class Methodlar
+{
+    public void EkranaYazdir(string veri)
     {
-        double negative = 0;
-        double zero = 0;
-        double positive = 0;
-        double negFraction;
-        double zeroFraction;
-        double posFraction;
-        if (arr.Count > 0 && arr.Count <= 100)
-        {
-            for (int i = 0; i < arr.Count; i++)
-            {
-                if (arr[i] >= -100 && arr[i] <= 100)
-                {
-                    if (arr[i] >= -100 && arr[i] < 0)
-                    {
-                        negative++;
-                    }
-                    else if (arr[i] == 0)
-                    {
-                        zero++;
-                    }
-                    else positive++;
-                }
-                else continue;
-            }
-        }
-        negFraction = negative / arr.Count();
-        zeroFraction = zero / arr.Count();
-        posFraction = positive / arr.Count();
-        Console.WriteLine(negFraction);
-        Console.WriteLine(zeroFraction);
-        Console.WriteLine(posFraction);
-        Console.WriteLine(arr.Count());
-        
-        Console.WriteLine(negFraction.ToString("F4"));
-        Console.WriteLine(posFraction.ToString("F4"));
-        Console.WriteLine(zeroFraction.ToString("F4"));
-
+        Console.WriteLine(veri);
     }
-
-}
-
-class Solution
-{
-    public static void Main(string[] args)
+    public int ArttirveTopla(ref int deger1, ref int deger2)
     {
-        int n = Convert.ToInt32(Console.ReadLine().Trim());
-
-        List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
-
-        Result.plusMinus(arr);
+        deger1 += 1;
+        deger2 += 1;
+        return (deger1 + deger2);
     }
 }

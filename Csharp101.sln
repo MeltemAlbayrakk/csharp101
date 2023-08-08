@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerrankDeneme", "HackerrankDeneme\HackerrankDeneme.csproj", "{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sınıfı", "Array Sınıfı\Array Sınıfı.csproj", "{4BB5C882-B94F-473C-A1C2-61390BD0CA47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4555A58E-4AE6-4B77-B526-8DFA9DB75A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB5C882-B94F-473C-A1C2-61390BD0CA47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
