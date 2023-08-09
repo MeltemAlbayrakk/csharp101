@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\bin\Debug\net6.0\Odev-1 Algoritma Soruları.exe
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\bin\Debug\net6.0\Odev-1 Algoritma Soruları.deps.json
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\bin\Debug\net6.0\Odev-1 Algoritma Soruları.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\bin\Debug\net6.0\Odev-1 Algoritma Soruları.dll
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\bin\Debug\net6.0\Odev-1 Algoritma Soruları.pdb
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.dll
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\refint\Odev-1 Algoritma Soruları.dll
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.pdb
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\Odev-1 Algoritma Soruları.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\Odev-1 Algoritma Soruları\obj\Debug\net6.0\ref\Odev-1 Algoritma Soruları.dll
