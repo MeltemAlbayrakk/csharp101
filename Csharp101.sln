@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerrankDeneme", "Hackerr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Sınıfı", "Array Sınıfı\Array Sınıfı.csproj", "{4BB5C882-B94F-473C-A1C2-61390BD0CA47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CF5CE3E4-691F-4A88-AD01-A72387C19500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CF5CE3E4-691F-4A88-AD01-A72387C19500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar 2 (overloading)", "Metotlar 2 (overloading)\Metotlar 2 (overloading).csproj", "{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar 2 (overloading)", "Metotlar 2 (overloading)\Metotlar 2 (overloading).csproj", "{A94ECED9-5B66-45EC-A2A7-1B45F4899F31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar 3", "Metotlar 3\Metotlar 3.csproj", "{4DFBCE40-5FD7-4C53-AB44-1A8CBF732107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar 3", "Metotlar 3\Metotlar 3.csproj", "{4DFBCE40-5FD7-4C53-AB44-1A8CBF732107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev-1 Algoritma Soruları", "Odev-1 Algoritma Soruları\Odev-1 Algoritma Soruları.csproj", "{78422C17-B20C-4631-8F0F-EF8329BA0C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev-1 Algoritma Soruları", "Odev-1 Algoritma Soruları\Odev-1 Algoritma Soruları.csproj", "{78422C17-B20C-4631-8F0F-EF8329BA0C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Metotlar", "String Metotlar\String Metotlar.csproj", "{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{78422C17-B20C-4631-8F0F-EF8329BA0C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78422C17-B20C-4631-8F0F-EF8329BA0C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78422C17-B20C-4631-8F0F-EF8329BA0C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
