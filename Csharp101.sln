@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar 3", "Metotlar 3\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev-1 Algoritma Soruları", "Odev-1 Algoritma Soruları\Odev-1 Algoritma Soruları.csproj", "{78422C17-B20C-4631-8F0F-EF8329BA0C34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Metotlar", "String Metotlar\String Metotlar.csproj", "{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Metotlar", "String Metotlar\String Metotlar.csproj", "{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime Kütüphanesi", "Datetime Kütüphanesi\Datetime Kütüphanesi.csproj", "{D7B3672B-82A3-41F0-80DF-6303F2960BD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DE2E01-7B62-4B5E-9C51-C6F28CDE127E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B3672B-82A3-41F0-80DF-6303F2960BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B3672B-82A3-41F0-80DF-6303F2960BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B3672B-82A3-41F0-80DF-6303F2960BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B3672B-82A3-41F0-80DF-6303F2960BD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

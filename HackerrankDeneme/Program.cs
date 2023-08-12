@@ -1,38 +1,73 @@
-﻿
+﻿using System;
 
 
 
-    //erisim_belirteci geri_donuctipi metot_adi(parametrelistesi/arguman)
-    ////komutlar;
-    // return;
-    //}
-    int a = 2;
-    int b = 3;
-    Console.WriteLine(a + b);
-
-    int sonuc = Topla(a, b);
-    Console.WriteLine(sonuc);
-    Methodlar ornek = new Methodlar();
-    ornek.EkranaYazdir(Convert.ToString(sonuc));
-    int sonuc2 = ornek.ArttirveTopla(ref a, ref b);
-    ornek.EkranaYazdir(Convert.ToString(sonuc2));
-    ornek.EkranaYazdir(Convert.ToString(a + b));
-
-static int Topla(int deger1, int deger2)
+public class SignException : SystemException
 {
-    return (deger1 + deger2);
-}		
-	
-	class Methodlar
+    public SignException()
+         : base()
+    { }
+
+    public SignException(String message)
+        : base(message)
+
+    { }
+
+    public SignException(String message, Exception innerException)
+        : base(message, innerException)
+    { }
+
+   
+}
+class Calculator
 {
-    public void EkranaYazdir(string veri)
+    internal int power(int n ,int p)
     {
-        Console.WriteLine(veri);
+        try
+        {
+            if (n<0||p<0)
+            {
+                throw new SignException("n and p should be non-negative");
+            }
+            else
+            {
+                int sonuc=Convert.ToInt32(Math.Pow(Convert.ToDouble(n),Convert.ToDouble(p)));
+                return sonuc;
+            }
+            
+        }
+        catch (SignException signException)
+        {
+
+            Console.WriteLine(signException);
+        }
+           
     }
-    public int ArttirveTopla(ref int deger1, ref int deger2)
+}
+//Write your code here
+
+class Solution
+{
+    static void Main(String[] args)
     {
-        deger1 += 1;
-        deger2 += 1;
-        return (deger1 + deger2);
+        Calculator myCalculator = new Calculator();
+        int T = Int32.Parse(Console.ReadLine());
+        while (T-- > 0)
+        {
+            string[] num = Console.ReadLine().Split();
+            int n = int.Parse(num[0]);
+            int p = int.Parse(num[1]);
+            try
+            {
+                int ans = myCalculator.power(n, p);
+                Console.WriteLine(ans);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+            }
+        }
+
     }
 }
