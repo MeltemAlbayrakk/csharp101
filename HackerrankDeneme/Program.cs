@@ -1,73 +1,25 @@
-﻿using System;
-
-
-
-public class SignException : SystemException
+﻿string s = "12:05:45PM";
+string saat = s.Substring(0, 2);
+string dakika = s.Substring(3, 2);
+string saniye = s.Substring(6, 2);
+string AmOrPm = s.Substring(8, 2);
+if (AmOrPm == "AM" && saat == "12")
 {
-    public SignException()
-         : base()
-    { }
-
-    public SignException(String message)
-        : base(message)
-
-    { }
-
-    public SignException(String message, Exception innerException)
-        : base(message, innerException)
-    { }
-
-   
+    saat = "00";
+    //return saat + ":" + dakika + ":" + saniye;
 }
-class Calculator
-{
-    internal int power(int n ,int p)
-    {
-        try
-        {
-            if (n<0||p<0)
-            {
-                throw new SignException("n and p should be non-negative");
-            }
-            else
-            {
-                int sonuc=Convert.ToInt32(Math.Pow(Convert.ToDouble(n),Convert.ToDouble(p)));
-                return sonuc;
-            }
-            
-        }
-        catch (SignException signException)
-        {
 
-            Console.WriteLine(signException);
-        }
-           
-    }
+else if (AmOrPm == "PM" && saat == "12")
+{
+    int pırt = Convert.ToInt32(saat);
+    pırt -= 12;
+    saat = pırt.ToString();
+    //return saat + ":" + dakika + ":" + saniye;
 }
-//Write your code here
-
-class Solution
+else
 {
-    static void Main(String[] args)
-    {
-        Calculator myCalculator = new Calculator();
-        int T = Int32.Parse(Console.ReadLine());
-        while (T-- > 0)
-        {
-            string[] num = Console.ReadLine().Split();
-            int n = int.Parse(num[0]);
-            int p = int.Parse(num[1]);
-            try
-            {
-                int ans = myCalculator.power(n, p);
-                Console.WriteLine(ans);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-
-            }
-        }
-
-    }
+    int zort = Convert.ToInt32(saat);
+    zort += 12;
+    saat = zort.ToString();
+    //return saat + ":" + dakika + ":" + saniye;
 }
