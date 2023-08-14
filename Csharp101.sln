@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datetime Kütüphanesi", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

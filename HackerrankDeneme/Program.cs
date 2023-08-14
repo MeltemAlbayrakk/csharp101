@@ -1,25 +1,43 @@
-﻿string s = "12:05:45PM";
-string saat = s.Substring(0, 2);
-string dakika = s.Substring(3, 2);
-string saniye = s.Substring(6, 2);
-string AmOrPm = s.Substring(8, 2);
-if (AmOrPm == "AM" && saat == "12")
-{
-    saat = "00";
-    //return saat + ":" + dakika + ":" + saniye;
-}
+﻿using System;
 
-else if (AmOrPm == "PM" && saat == "12")
+class Printer
 {
-    int pırt = Convert.ToInt32(saat);
-    pırt -= 12;
-    saat = pırt.ToString();
-    //return saat + ":" + dakika + ":" + saniye;
-}
-else
-{
-    int zort = Convert.ToInt32(saat);
-    zort += 12;
-    saat = zort.ToString();
-    //return saat + ":" + dakika + ":" + saniye;
+    public static void PrintArray<T>(T[] dizi)
+    {
+        foreach (var item in dizi)
+        {
+            Console.WriteLine(item);
+        }
+    }
+
+
+    /**
+	*    Name: PrintArray
+	*    Print each element of the generic array on a new line. Do not return anything.
+	*    @param A generic array
+	**/
+    // Write your code here
+
+
+
+
+    static void Main(string[] args)
+    {
+        int n = Convert.ToInt32(Console.ReadLine());
+        int[] intArray = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            intArray[i] = Convert.ToInt32(Console.ReadLine());
+        }
+
+        n = Convert.ToInt32(Console.ReadLine());
+        string[] stringArray = new string[n];
+        for (int i = 0; i < n; i++)
+        {
+            stringArray[i] = Console.ReadLine();
+        }
+
+        PrintArray<Int32>(intArray);
+        PrintArray<String>(stringArray);
+    }
 }
