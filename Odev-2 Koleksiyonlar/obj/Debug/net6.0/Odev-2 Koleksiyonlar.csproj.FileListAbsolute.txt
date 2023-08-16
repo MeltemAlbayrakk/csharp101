@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\bin\Debug\net6.0\Odev-2 Koleksiyonlar.exe
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\bin\Debug\net6.0\Odev-2 Koleksiyonlar.deps.json
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\bin\Debug\net6.0\Odev-2 Koleksiyonlar.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\bin\Debug\net6.0\Odev-2 Koleksiyonlar.dll
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\bin\Debug\net6.0\Odev-2 Koleksiyonlar.pdb
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.dll
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\refint\Odev-2 Koleksiyonlar.dll
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.pdb
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\Odev-2 Koleksiyonlar.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp101\Odev-2 Koleksiyonlar\obj\Debug\net6.0\ref\Odev-2 Koleksiyonlar.dll

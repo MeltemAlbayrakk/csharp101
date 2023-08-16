@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Metotlar", "String M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datetime Kütüphanesi", "Datetime Kütüphanesi\Datetime Kütüphanesi.csproj", "{D7B3672B-82A3-41F0-80DF-6303F2960BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Koleksiyonlar", "Generic Koleksiyonlar\Generic Koleksiyonlar.csproj", "{D4E7FA99-01CB-4C94-A9A7-7D8B1427E093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\ArrayList.csproj", "{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev-2 Koleksiyonlar", "Odev-2 Koleksiyonlar\Odev-2 Koleksiyonlar.csproj", "{FB6444D3-246F-4BF5-9037-686C8516623F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0740F8C2-BC59-41E9-BEAB-DCB1BA01350A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6444D3-246F-4BF5-9037-686C8516623F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6444D3-246F-4BF5-9037-686C8516623F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6444D3-246F-4BF5-9037-686C8516623F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6444D3-246F-4BF5-9037-686C8516623F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
