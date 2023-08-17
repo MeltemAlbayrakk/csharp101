@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Sınıfı", "Static Sınıfı\Static Sınıfı.csproj", "{B9D9B55B-C6EE-495F-A4D7-1087DECF34E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{E2441CC0-C711-4D83-91E6-8BA3A27A14B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{B9D9B55B-C6EE-495F-A4D7-1087DECF34E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D9B55B-C6EE-495F-A4D7-1087DECF34E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D9B55B-C6EE-495F-A4D7-1087DECF34E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2441CC0-C711-4D83-91E6-8BA3A27A14B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2441CC0-C711-4D83-91E6-8BA3A27A14B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2441CC0-C711-4D83-91E6-8BA3A27A14B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2441CC0-C711-4D83-91E6-8BA3A27A14B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
