@@ -1,1 +1,1 @@
-﻿
+﻿Console.WriteLine("Emre seni seviyom");
