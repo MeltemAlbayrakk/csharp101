@@ -23,7 +23,7 @@
 
 class Student
 {
-    //field declaration. 
+     
     private string name;
     private string lastName;
     private int studentNo;
@@ -48,7 +48,7 @@ class Student
     {
         get => grade;
         set
-        {  //We add basic negative number logic. If we add this to the method it can be hack but prop is secure enough.
+        {  
             if (value < 1)
             {
                 Console.WriteLine("Grade can't be 0 or negative.");
@@ -81,7 +81,7 @@ class Student
     public void DownGrade()
     {
         this.Grade = this.Grade - 1;
-        //We shouldn't add logic for negative numbers. It local and we need to global logic so we will use this logic inside of the property.
+       
     }
 
     public void UpGrade()
